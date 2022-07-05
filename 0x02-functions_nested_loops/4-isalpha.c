@@ -1,9 +1,9 @@
-
 #include "main.h"
 
+
 /**
- * _is alpha - check for alphabetic character
- *_isalpha - checks character type
+ * _isalpha - check for alphabetic character
+ *
  * @c: character to check
  *
  * Description: checks for alpha
