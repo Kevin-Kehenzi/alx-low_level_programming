@@ -1,1 +1,1 @@
-script for pointers, arrays and strings task
+nalx low level programming
